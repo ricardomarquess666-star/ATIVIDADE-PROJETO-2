@@ -1,0 +1,13 @@
+h1{
+    border: 5px solid blue;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+ img {
+            width: 350px;
+            height: 220px;
+            object-fit: cover;
+        }
